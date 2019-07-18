@@ -38,35 +38,35 @@ dependencies {
 
 
     //分包
-    implementation 'com.android.support:multidex:1.0.3'
+    api  'com.android.support:multidex:1.0.3'
 
     //rxJava2
-    implementation 'io.reactivex.rxjava2:rxjava:2.1.16'
-    implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    api  'io.reactivex.rxjava2:rxjava:2.1.16'
+    api  'io.reactivex.rxjava2:rxandroid:2.0.2'
 
     //rxBinging2控件绑定
-    implementation 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+    api  'com.jakewharton.rxbinding2:rxbinding:2.0.0'
 
     //retrofit
-    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
-    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
-    implementation 'com.squareup.okhttp3:logging-interceptor:3.9.0'
+    api  'com.squareup.retrofit2:retrofit:2.4.0'
+    api  'com.squareup.retrofit2:converter-gson:2.4.0'
+    api  'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
+    api  'com.squareup.okhttp3:logging-interceptor:3.9.0'
 
     // butterknife
-    implementation 'com.jakewharton:butterknife:8.8.1'
+    api  'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
     //rxpermissions权限请求
-    implementation 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar'
+    api  'com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar'
 
 
     //进度条指示器
-    implementation 'com.github.ybq:Android-SpinKit:1.2.0'
+    api  'com.github.ybq:Android-SpinKit:1.2.0'
 
     //logger日志
-    implementation 'com.orhanobut:logger:2.2.0'
+    api  'com.orhanobut:logger:2.2.0'
 
     //设置系统沉浸式状态栏
-    implementation 'com.gyf.barlibrary:barlibrary:2.3.0'
+    api  'com.gyf.barlibrary:barlibrary:2.3.0'
 }
