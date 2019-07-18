@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+
+    <string name="common_no_net">Network request failed, please check the network</string>
+    <string name="common_socket_timeout">Network connection timed out, please try again later</string>
+    <string name="common_socket_closed">Server is down</string>
+    <string name="common_socket_no_host">Can not connect to the server</string>
+    <string name="common_other_error">Request failed</string>
+</resources>
