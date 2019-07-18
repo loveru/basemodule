@@ -1,6 +1,6 @@
 # basemodule
 
-https://jitpack.io/v/loveru/basemodule.svg https://jitpack.io/#loveru/basemodule
+[![](https://jitpack.io/v/loveru/basemodule.svg)](https://jitpack.io/#loveru/basemodule)
 
 implementation 'com.github.loveru:basemodule:v1.0.0'
 
