@@ -1,5 +1,7 @@
 # basemodule
 
+[！[]（https://jitpack.io/v/loveru/basemodule.svg）（https://jitpack.io/#loveru/basemodule）
+
 implementation 'com.github.loveru:basemodule:v1.0.0'
 
 一,如果导入后报如下错误，
